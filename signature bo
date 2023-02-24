@@ -1,0 +1,62 @@
+<!-- This is the start of the HTML document -->
+<html>
+    <!-- The head tag contains meta information about the document -->
+    <head>
+<style>
+    body {
+      font-family: Verdana, Geneva, sans-serif;
+      font-size: 12px;
+    }
+  </style>
+    </head>
+    <!-- The body tag contains the visible content of the document -->
+    <body>
+        <!-- These breaks add some spacing above the table -->
+        <br />
+        <br />
+        <br />
+        <!-- This table contains the contact information -->
+        <table style="width:508.8pt;border-collapse:collapse;">
+            <!-- The tbody tag groups the table rows together -->
+            <tbody>
+                <!-- This row contains the logo and contact name -->
+                <tr style="height:33.7pt">
+                    <!-- This cell contains the logo -->
+                    <td style="width:85;">
+                        <img alt="logo" src="https://nissan-cec--c.eu27.content.force.com/file-asset-public/logo8?oid=00Db0000000Hg9Z" style="max-width:100%;" title="logo" />
+                    </td>
+                    <!-- This cell contains the contact name and details -->
+                    <td style="width:593;">
+                        <p>
+                            <strong>First name Last name</strong>
+                            <br />
+                            Service Relation Clients
+                            <br />
+                            NISSAN WEST EUROPE
+                            <br />
+                            Heures d’ouverture: Lun. au Ven. 08h00 - 20h00, Sam. 08h00 à 14h00
+                            <br />
+                            Téléphone: +33 1 72 67 68 69
+                        </p>
+                        <p>
+                            <a href="https://www.nissan.fr/service-clients/contact.html">Contactez-nous</a>
+                        </p>
+                    </td>
+                </tr>
+                <!-- This row adds some space below the contact information -->
+                <tr style="height:7.3pt">
+                    <td colspan="2">&nbsp;</td>
+                </tr>
+            </tbody>
+        </table>
+        <!-- These breaks add some spacing below the table -->
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+    </body>
+</html>
